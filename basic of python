@@ -1,0 +1,70 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPIHsD3j4X7n6ad5ecGTIKg",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Pradeepreddy217/ai/blob/main/basic%20of%20python\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 3,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "gpeBE21jP-Le",
+        "outputId": "b75adb23-f6e9-42f2-9d02-4aab12a793b7"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "100\n",
+            "200.0\n",
+            "Pradeep\n"
+          ]
+        }
+      ],
+      "source": [
+        "counter = 100 #An integer assignment\n",
+        "miles = 200.0 # aa floating point\n",
+        "name = \"Pradeep\" # string\n",
+        "\n",
+        "print (counter)\n",
+        "print (miles)\n",
+        "print (name)"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "DIenmvgBQDvF"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
